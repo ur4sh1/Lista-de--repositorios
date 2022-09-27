@@ -1,5 +1,5 @@
 #Exercício React
-<h1 align="center">:file_cabinet: Lista de repositorios.md</h1>
+<h1 align="center">:file_cabinet: Lista de repositorios</h1>
 
 ## :memo: Descrição
 Exercício de React.

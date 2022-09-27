@@ -17,9 +17,13 @@ Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando 
 ```
 git clone git@github.com:ur4sh1/Lista-de--repositorios.git
 ```
-Instalar as dependências
+Instalar o yarn
 ```
-npm install
+npm install --global yarn
+```
+Rodar o webpack
+```
+yarn dev
 ```
 
 ## :dart: Status do projeto

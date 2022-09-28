@@ -11,6 +11,7 @@ Exercício de React.
 * React;
 * Babel;
 * WebPack;
+* TypeScript;
 
 ## :rocket: Rodando o projeto
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
